@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Default_methods-Java_Interface_Default_Method_Execution" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Default methods/Java Interface Default Method Execution" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Last Pencil (Java)" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Default methods/Java Interface Default Method Execution">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Default methods/Java Interface Default Method Execution/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Default methods/Java Interface Default Method Execution/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Default methods/Java Interface Default Method Execution/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
