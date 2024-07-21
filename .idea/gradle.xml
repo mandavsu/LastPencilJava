@@ -29,6 +29,12 @@
             <option value="$PROJECT_DIR$/Topics/Default methods/Theory" />
             <option value="$PROJECT_DIR$/Topics/Default methods/What is the reason for default methods" />
             <option value="$PROJECT_DIR$/Topics/Default methods/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Reading a number" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Reading a single word" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Understanding System.in" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

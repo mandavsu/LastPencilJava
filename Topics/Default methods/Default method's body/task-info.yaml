@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: they have a body
+  - text: they have a void return type
+  - text: they have an empty body
+  - text: they do not have a body
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11355#comment
+status: Solved
+record: -1
+custom_name: Default method's body?
+local_check: false
